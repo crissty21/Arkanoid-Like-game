@@ -1,0 +1,98 @@
+﻿  Actor.cpp
+C:\Users\crist\Desktop\Arkanoid-like game\Project1\Actor.cpp(18,41): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\crist\Desktop\Arkanoid-like game\Project1\Actor.cpp(18,28): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\crist\Desktop\Arkanoid-like game\Project1\Actor.cpp(94,12): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\crist\Desktop\Arkanoid-like game\Project1\Actor.cpp(95,12): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\crist\Desktop\Arkanoid-like game\Project1\Actor.cpp(116,25): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\crist\Desktop\Arkanoid-like game\Project1\Actor.cpp(116,22): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\crist\Desktop\Arkanoid-like game\Project1\Actor.cpp(131,8): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\crist\Desktop\Arkanoid-like game\Project1\Actor.cpp(132,8): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\crist\Desktop\Arkanoid-like game\Project1\Actor.cpp(133,12): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\crist\Desktop\Arkanoid-like game\Project1\Actor.cpp(134,12): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\crist\Desktop\Arkanoid-like game\Project1\Actor.cpp(142,25): warning C4838: conversion from 'float' to 'int' requires a narrowing conversion
+C:\Users\crist\Desktop\Arkanoid-like game\Project1\Actor.cpp(142,25): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\crist\Desktop\Arkanoid-like game\Project1\Actor.cpp(143,16): warning C4838: conversion from 'float' to 'int' requires a narrowing conversion
+C:\Users\crist\Desktop\Arkanoid-like game\Project1\Actor.cpp(143,16): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\crist\Desktop\Arkanoid-like game\Project1\Actor.cpp(144,20): warning C4838: conversion from 'float' to 'int' requires a narrowing conversion
+C:\Users\crist\Desktop\Arkanoid-like game\Project1\Actor.cpp(144,20): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\crist\Desktop\Arkanoid-like game\Project1\Actor.cpp(145,20): warning C4838: conversion from 'float' to 'int' requires a narrowing conversion
+C:\Users\crist\Desktop\Arkanoid-like game\Project1\Actor.cpp(145,20): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\crist\Desktop\Arkanoid-like game\Project1\Actor.cpp(146,38): warning C4838: conversion from 'float' to 'int' requires a narrowing conversion
+C:\Users\crist\Desktop\Arkanoid-like game\Project1\Actor.cpp(146,38): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\crist\Desktop\Arkanoid-like game\Project1\Actor.cpp(147,29): warning C4838: conversion from 'float' to 'int' requires a narrowing conversion
+C:\Users\crist\Desktop\Arkanoid-like game\Project1\Actor.cpp(147,29): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\crist\Desktop\Arkanoid-like game\Project1\Actor.cpp(148,33): warning C4838: conversion from 'float' to 'int' requires a narrowing conversion
+C:\Users\crist\Desktop\Arkanoid-like game\Project1\Actor.cpp(148,33): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\crist\Desktop\Arkanoid-like game\Project1\Actor.cpp(149,33): warning C4838: conversion from 'float' to 'int' requires a narrowing conversion
+C:\Users\crist\Desktop\Arkanoid-like game\Project1\Actor.cpp(149,33): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\crist\Desktop\Arkanoid-like game\Project1\Actor.cpp(176,13): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
+C:\Users\crist\Desktop\Arkanoid-like game\Project1\Actor.cpp(181,13): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
+C:\Users\crist\Desktop\Arkanoid-like game\Project1\Actor.cpp(188,17): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
+C:\Users\crist\Desktop\Arkanoid-like game\Project1\Actor.cpp(193,17): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
+C:\Users\crist\Desktop\Arkanoid-like game\Project1\Actor.cpp(217,25): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\crist\Desktop\Arkanoid-like game\Project1\Actor.cpp(217,22): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  Ball.cpp
+C:\Users\crist\Desktop\Arkanoid-like game\Project1\Ball.h(27,39): warning C4305: 'initializing': truncation from 'double' to 'const float'
+C:\Users\crist\Desktop\Arkanoid-like game\Project1\Ball.cpp(117,15): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\crist\Desktop\Arkanoid-like game\Project1\Ball.cpp(118,12): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\crist\Desktop\Arkanoid-like game\Project1\Ball.cpp(124,28): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\crist\Desktop\Arkanoid-like game\Project1\Ball.cpp(129,31): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\crist\Desktop\Arkanoid-like game\Project1\Ball.cpp(135,28): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\crist\Desktop\Arkanoid-like game\Project1\Ball.cpp(140,31): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\crist\Desktop\Arkanoid-like game\Project1\Ball.cpp(185,36): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\crist\Desktop\Arkanoid-like game\Project1\Ball.cpp(186,29): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\crist\Desktop\Arkanoid-like game\Project1\Ball.cpp(202,22): warning C4244: '=': conversion from 'unsigned int' to 'float', possible loss of data
+C:\Users\crist\Desktop\Arkanoid-like game\Project1\Ball.cpp(232,24): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\crist\Desktop\Arkanoid-like game\Project1\Ball.cpp(233,20): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\crist\Desktop\Arkanoid-like game\Project1\Ball.cpp(237,36): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\crist\Desktop\Arkanoid-like game\Project1\Ball.cpp(287,26): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\crist\Desktop\Arkanoid-like game\Project1\Ball.cpp(291,25): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\crist\Desktop\Arkanoid-like game\Project1\Ball.cpp(307,13): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\crist\Desktop\Arkanoid-like game\Project1\Ball.cpp(308,13): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\crist\Desktop\Arkanoid-like game\Project1\Ball.cpp(318,41): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\crist\Desktop\Arkanoid-like game\Project1\Ball.cpp(324,41): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\crist\Desktop\Arkanoid-like game\Project1\Ball.cpp(332,41): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\crist\Desktop\Arkanoid-like game\Project1\Ball.cpp(338,41): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\crist\Desktop\Arkanoid-like game\Project1\Ball.cpp(360,67): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\crist\Desktop\Arkanoid-like game\Project1\Ball.cpp(360,42): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\crist\Desktop\Arkanoid-like game\Project1\Ball.cpp(378,25): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\crist\Desktop\Arkanoid-like game\Project1\Ball.cpp(381,25): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\crist\Desktop\Arkanoid-like game\Project1\Ball.cpp(385,26): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\crist\Desktop\Arkanoid-like game\Project1\Ball.cpp(402,65): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\crist\Desktop\Arkanoid-like game\Project1\Ball.cpp(402,42): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  game.cpp
+C:\Users\crist\Desktop\Arkanoid-like game\Project1\Ball.h(27,39): warning C4305: 'initializing': truncation from 'double' to 'const float'
+C:\Users\crist\Desktop\Arkanoid-like game\Project1\game.cpp(52,13): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\crist\Desktop\Arkanoid-like game\Project1\game.cpp(76,99): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\crist\Desktop\Arkanoid-like game\Project1\game.cpp(76,56): warning C4244: 'argument': conversion from 'unsigned int' to 'float', possible loss of data
+C:\Users\crist\Desktop\Arkanoid-like game\Project1\game.cpp(103,26): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\crist\Desktop\Arkanoid-like game\Project1\game.cpp(105,27): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\crist\Desktop\Arkanoid-like game\Project1\game.cpp(107,44): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\crist\Desktop\Arkanoid-like game\Project1\game.cpp(107,36): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\crist\Desktop\Arkanoid-like game\Project1\game.cpp(118,125): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\crist\Desktop\Arkanoid-like game\Project1\game.cpp(118,82): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\crist\Desktop\Arkanoid-like game\Project1\game.cpp(138,26): warning C4244: 'initializing': conversion from 'unsigned int' to 'float', possible loss of data
+C:\Users\crist\Desktop\Arkanoid-like game\Project1\game.cpp(196,19): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\crist\Desktop\Arkanoid-like game\Project1\game.cpp(197,19): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\crist\Desktop\Arkanoid-like game\Project1\game.cpp(252,29): warning C4244: '=': conversion from 'unsigned int' to 'float', possible loss of data
+C:\Users\crist\Desktop\Arkanoid-like game\Project1\game.cpp(253,29): warning C4244: '=': conversion from 'unsigned int' to 'float', possible loss of data
+C:\Users\crist\Desktop\Arkanoid-like game\Project1\game.cpp(277,88): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\crist\Desktop\Arkanoid-like game\Project1\game.cpp(277,67): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\crist\Desktop\Arkanoid-like game\Project1\game.cpp(318,1): warning C4305: 'initializing': truncation from 'double' to 'float'
+  Pawn.cpp
+  Tile.cpp
+C:\Users\crist\Desktop\Arkanoid-like game\Project1\Tile.cpp(91,29): warning C4838: conversion from 'float' to 'int' requires a narrowing conversion
+C:\Users\crist\Desktop\Arkanoid-like game\Project1\Tile.cpp(91,29): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\crist\Desktop\Arkanoid-like game\Project1\Tile.cpp(92,18): warning C4838: conversion from 'float' to 'int' requires a narrowing conversion
+C:\Users\crist\Desktop\Arkanoid-like game\Project1\Tile.cpp(92,18): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\crist\Desktop\Arkanoid-like game\Project1\Tile.cpp(93,31): warning C4838: conversion from 'float' to 'int' requires a narrowing conversion
+C:\Users\crist\Desktop\Arkanoid-like game\Project1\Tile.cpp(93,31): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\crist\Desktop\Arkanoid-like game\Project1\Tile.cpp(94,32): warning C4838: conversion from 'float' to 'int' requires a narrowing conversion
+C:\Users\crist\Desktop\Arkanoid-like game\Project1\Tile.cpp(94,32): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+  Vector2d.cpp
+C:\Users\crist\Desktop\Arkanoid-like game\Project1\Vector2d.cpp(30,35): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\crist\Desktop\Arkanoid-like game\Project1\Vector2d.cpp(30,24): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\crist\Desktop\Arkanoid-like game\Project1\Vector2d.cpp(37,33): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\crist\Desktop\Arkanoid-like game\Project1\Vector2d.cpp(37,24): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  Generating Code...
+  Project1.vcxproj -> C:\Users\crist\Desktop\Arkanoid-like game\x64\Debug\Project1.exe
